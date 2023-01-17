@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Project:
 T-sensa is a site, that describes company information, Services, and our dedicated team info.<br>Technologies Used: REACT, bootstrap, Emailjs and etc.
 
 
