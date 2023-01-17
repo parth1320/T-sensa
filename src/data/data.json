@@ -1,0 +1,170 @@
+{
+  "Header": {
+    "title": "Transactions Secure and Safe",
+    "paragraph": "Our company will build on the trust of our coustomers, and we strongly believes that the services provided by us are easy to use and fun not makes anyones life complicated."
+  },
+  "About": {
+    "paragraph": "We are a company on a mission being born in 2022. We strongly believe in our customer's values and trust and promises to deliver solution on time. Our happy journey begins under the guidance of the Technical University of Chemnitz. We belive on trust with our Customers. ",
+    "Why": [
+      "Integrity ",
+      "Promise to customers",
+      "Teamwork"
+      
+    ],
+    "Why2": [
+      "Diversity ",
+      "Passion",
+      "Quality"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Security and Integrity",
+      "text": "We deliver solutions with high security with help of block chain"
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Cost saving",
+      "text": "No need of paper work ,our services are to digitize all the paper billing processes"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Quality",
+      "text": "We provide high quality solutions to our customers"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpeg",
+      "name": "Lohitaksh Singla",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Parth Kakadiya",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Ashish Kumar Pathak",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Venkata Suneel Marella",
+      "job": "Project Manager"
+    },
+    {
+      "img": "img/team/05.jpg",
+      "name": "MD Tarekul Islam",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Vetterstrasse 70, Chemnitz, Germany 09126 ",
+    "phone": "+49 176 4046 8965",
+    "email": "tsensagroup@gmail.com",
+    "facebook": "https://www.facebook.com/profile.php?id=100087798881121",
+    "twitter": "https://twitter.com/tsensagroup",
+    "youtube": "https://www.youtube.com/channel/UCF0qc-mS-8aA5tbffKyoM4Q",
+    "instagram" : "instagram.com"
+  },
+  "Features": [
+    
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Vision",
+      "text": "To be the world’s best Leading, secured and efficient smart contract provider, aiming to revolutionize the blockchain industry."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Mission",
+      "text": "Our mission is to make secure, trusted data transactions with blockchain with gaining the trust of our customers. "
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Goal",
+      "text": "Our goal is to use blockchain technology to make smart contracts easily accessible, transparent, and ease usage to anyone with cost-saving solutions."
+    }
+  ]
+}
